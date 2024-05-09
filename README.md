@@ -28,3 +28,4 @@ When I am not coding, I enjoy:
 Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) for collaboration opportunities or to connect further!
 
 Thank you for stopping by!
+d
