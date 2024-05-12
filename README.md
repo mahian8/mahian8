@@ -1,31 +1,47 @@
-# Mahian Jalil Sawron
+# **MAHIAN JALIL SAWRON**
 
-## Full-Stack Web Developer
+## **Software Engineer**  
+## **Universiti Putra Malaysia (UPM)**
 
-Welcome to my README file! Here, you'll find an overview of who I am, my background, skills, and interests.
+**Find out my background, skills, and interest**
 
-### About Me
-I am Mahian Jalil Sawron, a dedicated full-stack web developer with a passion for crafting elegant and functional websites. With a solid foundation in software engineering and a discerning eye for design, I am committed to delivering top-tier solutions that surpass expectations.
+### **About Me**
 
-### Education
-- **Degree:** Computer Science from Universiti Putra Malaysia (UPM)
-- **Skills:** Programming, Problem-solving
+**Hi!** I am **Mahian Jalil Sawron**, as a dedicated student hailing from Bangladesh, I find myself on the brink of completing my Bachelor's degree in Software Engineering. Throughout my academic journey, I've held onto a relentless passion for technology and developed a keen aptitude for software development. With a constant thirst for knowledge and a drive for excellence, I've strived to excel in my coursework, always pushing myself to broaden my understanding of software engineering principles and practices.
 
-### Professional Experience
-Throughout my professional journey, I have gained valuable experience working on a diverse range of projects, from small-scale web applications to large-scale enterprise systems. I am proficient in frontend and backend technologies, including:
+Beyond my academic pursuits, I'm known for my strong work ethic and collaborative spirit. I actively engage in group projects, offering valuable insights and contributing to the success of my teams. My commitment to excellence isn't confined to academic achievements; it extends to practical skills as well. I eagerly take on coding challenges and embrace new technologies, always seeking to expand my capabilities.
+
+As I prepare to embark on the next chapter of my journey, I feel poised to make a significant impact in the field of software engineering. With my combination of technical expertise, dedication, and a thirst for innovation, I believe I'm primed to thrive in the dynamic and ever-evolving world of technology.
+
+### **Education**
+
+- Bachelor of Software Engineering with honours
+    Universiti Putra Malaysia (UPM)
+    2021-Present
+
+- BPATC School and College
+    Higher Secondary Certificate
+    2018-2020
+
+- BPATC School and College
+    Secondary School Certificate
+    2008-2018
+  
+### Skills
+
+- C++
 - HTML
 - CSS
-- JavaScript
-- Python
 - Java
 
 ### Interests
+
 When I am not coding, I enjoy:
+
 - Reading books on technology and entrepreneurship
 - Exploring nature
 - Spending time with my family
 
-Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) for collaboration opportunities or to connect further!
+Feel free to reach out to me via email at mahian8112@gmail.com for collaboration
 
 Thank you for stopping by!
-d
