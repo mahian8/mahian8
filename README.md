@@ -1,8 +1,7 @@
 # **MAHIAN JALIL SAWRON**
 
-## **Software Engineer**
-
-## **Universiti Putra Malaysia (UPM)**
+ **Software Engineer**
+ **Universiti Putra Malaysia (UPM)**
 
 ## **Find out my background, skills, and interest**
 
@@ -37,12 +36,10 @@ As I prepare to embark on the next chapter of my journey, I feel poised to make 
 
 When I am not coding, I enjoy:
 
-
 - Reading books on technology
 - Exploring nature
 - Spending time with my family
 - Riding Bike
-
 
 Feel free to reach out to me via email at <mahian8112@gmail.com> for collaboration
 
