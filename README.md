@@ -1,76 +1,81 @@
-<h1 align="center">Hi there 👋, I'm Mahian Jalil Sawron</h1>
-<h3 align="center">Software Engineer | Frontend Specialist | Mobile App Developer | UI/UX Designer</h3>
+
+<h1 align="center">Hi 👋, I'm Mahian Jalil Sawron</h1>
+<h3 align="center">Software Engineer | UI/UX Enthusiast | Flutter & Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahian8&label=Profile%20views&color=0e75b6&style=flat" alt="mahianjalil" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20%7C%20Java%20%7C%20JS%20Beginner%20%7C%20NodeJS%20Learner%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver;I%20Love%20to%20Build%20and%20Solve%20with%20Code!&center=true&width=500&height=30&color=00bfff&vCenter=true&pause=1000&size=20" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahian8&label=Profile%20views&color=0e75b6&style=flat" alt="mahian8" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineering student at **Universiti Putra Malaysia (UPM)** 🇲🇾, originally from **Bangladesh** 🇧🇩.
+Hi! I am Mahian Jalil Sawron, a passionate software engineering student at Universiti Putra Malaysia (UPM). Originally from Bangladesh, I'm deeply focused on becoming a top-tier developer with a strong foundation in frontend, backend, mobile, and AI-powered software systems.
 
 🚀 I specialize in **frontend development**, **mobile apps using Flutter**, and **Java-based backend solutions**.  
 💡 Currently learning **JavaScript**, **Node.js**, and backend integration with **Firebase**.  
 🛠️ I love building engaging, performant, and scalable software solutions.  
 💬 I’m also a **UI/UX Designer**, **requirement collector**, and open to collaborations.  
-📫 Email me at **mahian8112@gmail.com**  
+📫 Email me at **mahian8112@gmail.com**
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-- 🎓 **Bachelor of Software Engineering (Hons)**  
-  *Universiti Putra Malaysia (UPM)* — `2021 - Present`
+- 🎓 **Bachelor of Software Engineering with Honours**  
+  Universiti Putra Malaysia (UPM), 2021 – Present
 
-- 📘 **Higher Secondary Certificate (HSC)**  
-  *BPATC School and College* — `2018 - 2020`
+- 📘 **Higher Secondary Certificate**  
+  BPATC School and College, 2018 – 2020
 
-- 📗 **Secondary School Certificate (SSC)**  
-  *BPATC School and College* — `2008 - 2018`
-
----
-
-### 🛠️ Skills & Technologies
-
-#### 💻 Programming Languages & Tools
-
-![C++](https://img.shields.io/badge/C++-Junior-blue?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/HTML-Expert-red?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=flat-square&logo=node.js)
-![Dart](https://img.shields.io/badge/Dart-Expert-blue?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-lightblue?style=flat-square&logo=flutter)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-purple?style=flat-square&logo=php)
-![Firebase](https://img.shields.io/badge/Firebase-Beginner-ffca28?style=flat-square&logo=firebase)
-
-#### 🧠 Other Skills
-
-- ✅ Frontend Development (Expert)
-- ✅ Mobile App Development (Flutter)
-- ✅ Backend with Java & Firebase
-- ✅ Web Development (Full Stack)
-- ✅ UI/UX Design (Figma, XD)
-- ✅ Software Requirement Collection
-- ✅ SRS Documentation
-- ✅ Agile Methodologies
-- ✅ Problem Solving & Debugging
+- 📘 **Secondary School Certificate**  
+  BPATC School and College, 2008 – 2018
 
 ---
 
-### 🌱 Interests
+## 💼 Experience
 
-- 📚 Reading about emerging technologies  
-- 🌿 Exploring nature  
-- 👨‍👩‍👧 Spending time with family  
-- 🏍️ Riding motorbikes  
+- 🖥️ **Web Developer & Media Consultant – JalilAgro (Bangladesh)**  
+  `2022 – 2024`
+
+- 🎬 **Freelancer – Video Editor (Final Cut Pro & Premiere Pro)**  
+  `2022 – 2023`
+
+- 🛡️ **Preventive Module Engineer – Vcybriz (Malaysia)**  
+  `April 2025 – Present`
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Skills & Tools
+
+Languages:     C++ (Junior), Java (Expert), JavaScript (Learning), HTML (Expert), CSS (Expert), PHP  
+Mobile:        Dart & Flutter (Expert), Firebase (Beginner)  
+Frontend:      HTML, CSS, JS, Flutter  
+Backend:       Node.js (Learning), PHP (Basic), Firebase, MySQL  
+Tools:         Git, GitHub, VS Code, Figma, Adobe XD, Final Cut Pro, Premiere Pro  
+Soft Skills:   UI/UX Design, SRS Writing, Requirement Analysis, Software Methodologies, Problem Solving
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,dart,flutter,nodejs,php,firebase,mysql,figma,xd,vscode,github,linux" />
+</p>
+
+---
+
+## 🌱 Interests
+
+- 📚 Reading tech & AI articles  
+- 🌳 Exploring nature  
+- 👨‍👩‍👦 Spending time with family  
+- 🏍️ Riding my bike  
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahian8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -91,22 +96,63 @@ Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineeri
 
 ---
 
-### 📈 GitHub Contribution Graph
+### 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahian8&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahian8&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 📋 GitHub Summary Cards
 
 <p align="center">
-  <a href="mailto:mahian8112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahian8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mahian8"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahian8&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahian8&theme=tokyonight&utcOffset=+8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahian8&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahian8&theme=tokyonight" />
 </p>
 
 ---
 
-*Thanks for visiting my profile! Feel free to reach out for collaboration, project ideas, or internships. 🚀*
+## 🤝 Connect With Me
+
+- 📧 Email: **mahian8112@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/mahian8)  
+- 💻 [GitHub](https://github.com/mahian8)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+⭐️ Thanks for visiting my profile! Let’s build something great together!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
