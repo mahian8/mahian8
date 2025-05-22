@@ -1,47 +1,24 @@
-# **MAHIAN JALIL SAWRON**
+# 💫 About Me:
+Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineering student at **Universiti Putra Malaysia (UPM)** 🇲🇾, originally from **Bangladesh** 🇧🇩.<br><br>🚀 I specialize in **frontend development**, **mobile apps using Flutter**, and **Java-based backend solutions**.  <br>💡 Currently learning **JavaScript**, **Node.js**, and backend integration with **Firebase**.  <br>🛠️ I love building engaging, performant, and scalable software solutions.  <br>💬 I’m also a **UI/UX Designer**, **requirement collector**, and open to collaborations.  <br>📫 Email me at **mahian8112@gmail.com**  
 
-## **Software Engineer**
 
-## **Universiti Putra Malaysia (UPM)**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahian8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mahian8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahian8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## **Find out my background, skills, and interest**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahian8&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### **About Me**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Hi!** I am **Mahian Jalil Sawron**, as a dedicated student hailing from Bangladesh, I find myself on the brink of completing my Bachelor's degree in Software Engineering. Throughout my academic journey, I've held onto a relentless passion for technology and developed a keen aptitude for software development. With a constant thirst for knowledge and a drive for excellence, I've strived to excel in my coursework, always pushing myself to broaden my understanding of software engineering principles and practices.
-Beyond my academic pursuits, I'm known for my strong work ethic and collaborative spirit. I actively engage in group projects, offering valuable insights and contributing to the success of my teams. My commitment to excellence isn't confined to academic achievements; it extends to practical skills as well. I eagerly take on coding challenges and embrace new technologies, always seeking to expand my capabilities.
-As I prepare to embark on the next chapter of my journey, I feel poised to make a significant impact in the field of software engineering. With my combination of technical expertise, dedication, and a thirst for innovation, I believe I'm primed to thrive in the dynamic and ever-evolving world of technology.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahian8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### **Education**
+---
+[![](https://visitcount.itsvg.in/api?id=mahian8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- Bachelor of Software Engineering with honours
-    Universiti Putra Malaysia (UPM)
-    2021-Present
-
-- BPATC School and College
-    Higher Secondary Certificate
-    2018-2020
-
-- BPATC School and College
-    Secondary School Certificate
-    2008-2018
-  
-### Skills
-
-- C++
-- HTML
-- CSS
-- Java
-
-### Interests
-
-When I am not coding, I enjoy:
-
-- Reading books on technology
-- Exploring nature
-- Spending time with my family
-- Riding Bike
-
-Feel free to reach out to me via email at <mahian8112@gmail.com> for collaboration
-
-Thank you for stopping by!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
