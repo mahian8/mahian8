@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Frontend Specialist | Mobile App Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahianjalil&label=Profile%20views&color=0e75b6&style=flat" alt="mahianjalil" />
+  <img src="https://komarev.com/ghpvc/?username=mahian8&label=Profile%20views&color=0e75b6&style=flat" alt="mahianjalil" />
 </p>
 
 ---
@@ -73,12 +73,12 @@ Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineeri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahianjalil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahianjalil&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahian8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahian8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahianjalil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahian8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineeri
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahianjalil&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahian8&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineeri
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahianjalil&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahian8&theme=tokyo-night" />
 </p>
 
 ---
@@ -103,8 +103,8 @@ Hi! I’m **Mahian Jalil Sawron**, a passionate and dedicated Software Engineeri
 
 <p align="center">
   <a href="mailto:mahian8112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahianjalil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mahianjalil"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahian8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mahian8"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
